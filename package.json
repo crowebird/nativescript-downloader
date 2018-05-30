@@ -1,0 +1,9 @@
+{
+  "name": "nativescript-downloader-custom",
+  "version": "0.0.1",
+  "nativescript": {
+    "platforms": {
+      "ios": "4.0.1"
+    }
+  }
+}
